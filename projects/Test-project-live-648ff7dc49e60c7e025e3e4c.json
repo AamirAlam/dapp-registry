@@ -1,0 +1,109 @@
+{
+  "_id": "648ff7dc49e60c7e025e3e4c",
+  "name": "Test project live",
+  "tagline": "DeFi Infra-Middleware with all in 1 API",
+  "description": [
+    "ThirdFi is building DeFi infra-middleware that makes DeFi more accessible with API. Build, trade, invest and manage DeFi apps easily with ThirdFi’s API, sdk and developer tools,ThirdFi is currently live on 11 L1/L2 chains. ThirdFi helps developers, fintech, and tradFi to build, invest & manage their DeFi with simple & dev-friendly tools using all-in-1 API integration."
+  ],
+  "status": "inactive",
+  "isLive": true,
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1687156693805_IMG_1636.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1687156693811_IMG_1636.png",
+    "banner": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1687156693824_IMG_1636.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1687156693829_IMG_1636.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1687156693832_IMG_2414-removebg-preview.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1687156693835_metal_icon.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1687156693837_metamask.png"
+    ],
+    "_id": "648ff7dc49e60c7e025e3e4d"
+  },
+  "categories": [
+    "DeFi",
+    "Infrastructure",
+    "Developer Tool"
+  ],
+  "productTypes": [
+    "Data Feeds"
+  ],
+  "user": null,
+  "chains": [
+    {
+      "name": "Ethereum",
+      "chainId": 1,
+      "_id": "648ff7dc49e60c7e025e3e4e"
+    },
+    {
+      "name": "Polygon",
+      "chainId": 137,
+      "_id": "648ff7dc49e60c7e025e3e4f"
+    },
+    {
+      "name": "BNB",
+      "chainId": 56,
+      "_id": "648ff7dc49e60c7e025e3e50"
+    },
+    {
+      "name": "Avalanche",
+      "chainId": 43114,
+      "_id": "648ff7dc49e60c7e025e3e51"
+    }
+  ],
+  "proxies": [
+    {
+      "proxyType": "OEV dAPI Proxy",
+      "feedName": "BTC/USD",
+      "dapiName": "BTC/USD",
+      "proxyAddress": "0x",
+      "oevBeneficiary": "0x",
+      "chainId": 137,
+      "_id": "648ff7dc49e60c7e025e3e52"
+    },
+    {
+      "proxyType": "OEV datafeed Proxy",
+      "feedName": "BTC/USD",
+      "proxyAddress": "0x",
+      "oevBeneficiary": "0x",
+      "chainId": 137,
+      "_id": "648ff7dc49e60c7e025e3e53"
+    }
+  ],
+  "year": "2023",
+  "created_at": "2023-06-19T06:35:59.867Z",
+  "links": {
+    "dapp": "https://neutra.finance/vault",
+    "doc": "https://docs.neutra.finance/english/",
+    "website": "https://neutra.finance/",
+    "explorer": "https://etherscan.io/",
+    "socials": [
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/thirdfiorg",
+        "_id": "648ff7dc49e60c7e025e3e55"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/tcZ42jHZ5N",
+        "_id": "648ff7dc49e60c7e025e3e56"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/NeutraFi_discussion",
+        "_id": "648ff7dc49e60c7e025e3e57"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCTJoXywam24P7nWlqCdPGZQ",
+        "_id": "648ff7dc49e60c7e025e3e58"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/thirdfi",
+        "_id": "648ff7dc49e60c7e025e3e59"
+      }
+    ],
+    "_id": "648ff7dc49e60c7e025e3e54"
+  },
+  "__v": 0
+}
