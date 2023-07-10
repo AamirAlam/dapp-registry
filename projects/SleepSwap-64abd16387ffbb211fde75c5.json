@@ -1,0 +1,69 @@
+{
+  "name": "SleepSwap",
+  "tagline": "AI based trading platform",
+  "description": "Eat sleep trade",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1688981855449_logo.jpeg",
+    "banner": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1688981855453_cover.jpeg",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1688981855474_about.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1688981855481_Alpha_Capital.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1688981855489_ankr.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1688981855499_aptin.png"
+    ]
+  },
+  "categories": [
+    "dex"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "1",
+    "137"
+  ],
+  "links": {
+    "website": "https://api3-ecosystem.netlify.app/",
+    "dapp": "https://api3-ecosystem.netlify.app/",
+    "docs": "https://api3-ecosystem.netlify.app/",
+    "explorer": "https://api3-ecosystem.netlify.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "discord",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "reddit",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "github",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "telegram",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "facebook",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "instagram",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "youtube",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "blog",
+        "url": "https://twitter.com/home"
+      }
+    ]
+  },
+  "year": 2021
+}
