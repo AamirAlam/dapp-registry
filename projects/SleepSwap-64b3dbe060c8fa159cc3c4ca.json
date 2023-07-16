@@ -1,0 +1,70 @@
+{
+  "name": "SleepSwap",
+  "tagline": "AI based trading platform",
+  "description": "Developers, traders, and liquidity providers participate together in a financial marketplace that is open and accessible to all.",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689508827737_uniswap.jpeg",
+    "banner": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689508827739_about.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689508827755_ankr.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689508827758_aptin.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689508827760_bg.jpeg",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689508827762_bkex.png"
+    ]
+  },
+  "categories": [
+    "defi",
+    "nft"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "1",
+    "137"
+  ],
+  "links": {
+    "website": "https://sleepswap.vercel.app/",
+    "dapp": "https://sleepswap.vercel.app/",
+    "docs": "https://sleepswap.vercel.app/",
+    "explorer": "https://sleepswap.vercel.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "discord",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "github",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "facebook",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "instagram",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "youtube",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "blog",
+        "url": "https://sleepswap.vercel.app/"
+      }
+    ]
+  },
+  "year": 2021
+}
