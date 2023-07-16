@@ -1,0 +1,70 @@
+{
+  "name": "POP protocol",
+  "tagline": "NFT perpetual trading",
+  "description": "Test trade",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689506478943_about.png",
+    "banner": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689506478945_uniswap.jpeg",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689506478945_casper.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689506478946_celer.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689506478973_congitent.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1689506478973_connect3.png"
+    ]
+  },
+  "categories": [
+    "defi",
+    "nft"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "56",
+    "1"
+  ],
+  "links": {
+    "website": "https://www.perped.com/",
+    "dapp": "https://www.perped.com/",
+    "docs": "https://www.perped.com/",
+    "explorer": "https://www.perped.com/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "discord",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "github",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "facebook",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "instagram",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "youtube",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "blog",
+        "url": "https://www.perped.com/"
+      }
+    ]
+  },
+  "year": 2021
+}
