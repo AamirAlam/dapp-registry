@@ -1,0 +1,81 @@
+{
+  "name": "SleepSwap",
+  "tagline": "AI based trading platform",
+  "description": "Developers, traders, and liquidity providers participate together in a financial marketplace that is open and accessible to all.",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690053708664_quick-logo.png",
+    "banner": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690053708664_quick-banner.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690053708675_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690053708683_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "dex",
+    "defi"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "1",
+    "42161"
+  ],
+  "proxies": {
+    "1101": [
+      {
+        "proxyType": "datafeedId",
+        "feedName": "ETH/USD",
+        "datafeedId": "0xd888b92f9d71afedd0a012622c0d1d5368fc0dc0ff1d30bb16266afcd49c2c17",
+        "proxyAddress": "0xDF164A1A1f51460953B3839E9e5d7EdceE0EB0D9",
+        "oev": {
+          "enabled": false
+        }
+      }
+    ]
+  },
+  "links": {
+    "website": "https://sleepswap.vercel.app/",
+    "dapp": "https://sleepswap.vercel.app/",
+    "docs": "https://sleepswap.vercel.app/",
+    "explorer": "https://sleepswap.vercel.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "discord",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "github",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "facebook",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "instagram",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "youtube",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "blog",
+        "url": "https://sleepswap.vercel.app/"
+      }
+    ]
+  },
+  "year": 2021
+}
