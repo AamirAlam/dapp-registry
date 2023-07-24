@@ -1,0 +1,67 @@
+{
+  "name": "SleepSwap",
+  "tagline": "AI based trading platform",
+  "description": "Sleep with piece of mind",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690185064863_quick-logo.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690185064863_quick-banner.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690185064883_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690185064887_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "defi"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "137"
+  ],
+  "proxies": {},
+  "links": {
+    "website": "https://sleepswap.vercel.app/",
+    "dapp": "https://sleepswap.vercel.app/",
+    "docs": "https://sleepswap.vercel.app/",
+    "explorer": "https://sleepswap.vercel.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "discord",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "reddit",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "github",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "telegram",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "facebook",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "instagram",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "youtube",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "blog",
+        "url": "https://twitter.com/home"
+      }
+    ]
+  },
+  "year": 2021
+}
