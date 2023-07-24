@@ -1,0 +1,89 @@
+{
+  "name": "SleepSwap",
+  "tagline": "AI based trading platform",
+  "description": "Sleep with piece of mind",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690186392817_quick-logo.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690186392817_quick-banner.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690186392836_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690186392841_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "defi"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "137"
+  ],
+  "proxies": {
+    "1101": [
+      {
+        "proxyType": "datafeedId",
+        "feedName": "ETH/USD",
+        "datafeedId": "0x4385954e058fbe6b6a744f32a4f89d67aad099f8fb8b23e7ea8dd366ae88151d",
+        "proxyAddress": "0x94C10721Bc55E81E40E5Db92060335374F32546b",
+        "oev": {
+          "enabled": false
+        }
+      },
+      {
+        "proxyType": "datafeedId",
+        "feedName": "ETH/USD",
+        "datafeedId": "0x4385954e058fbe6b6a744f32a4f89d67aad099f8fb8b23e7ea8dd366ae88151d",
+        "proxyAddress": "0x42e7638365215B18E969c7c71cAfd98fc035f3dc",
+        "oev": {
+          "enabled": true,
+          "beneficiary": "0xa5964a9CF2f8ADDF72b3e9Dd417b4E950Cd34e99"
+        }
+      }
+    ]
+  },
+  "links": {
+    "website": "https://sleepswap.vercel.app/",
+    "dapp": "https://sleepswap.vercel.app/",
+    "docs": "https://sleepswap.vercel.app/",
+    "explorer": "https://sleepswap.vercel.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "discord",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "reddit",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "github",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "telegram",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "facebook",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "instagram",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "youtube",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "blog",
+        "url": "https://twitter.com/home"
+      }
+    ]
+  },
+  "year": 2021
+}
