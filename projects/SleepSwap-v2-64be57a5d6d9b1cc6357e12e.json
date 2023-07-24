@@ -1,0 +1,102 @@
+{
+  "name": "SleepSwap-v2",
+  "tagline": "AI based trading platform",
+  "description": "Trade and sleep",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690195873413_uniswap.jpeg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690195873413_quick-banner.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690195873538_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690195873549_quick-s2.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690195873573_quick-s3.webp"
+    ]
+  },
+  "categories": [
+    "dex",
+    "defi"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "137"
+  ],
+  "proxies": {
+    "137": [
+      {
+        "proxyType": "dapi",
+        "feedName": "AAPL/USD",
+        "dapiNameHash": "0xbed6168323051797c9cfce44a5b1acca6bffbbaaccd3f5ff80fe8875c56bc6c2",
+        "proxyAddress": "0xa34Aa31eb0d9c4414EaC3B4A4b56A7ca3752529d",
+        "oev": {
+          "enabled": false
+        }
+      }
+    ],
+    "1101": [
+      {
+        "proxyType": "datafeedId",
+        "feedName": "ETH/USD",
+        "datafeedId": "0x4385954e058fbe6b6a744f32a4f89d67aad099f8fb8b23e7ea8dd366ae88151d",
+        "proxyAddress": "0x94C10721Bc55E81E40E5Db92060335374F32546b",
+        "oev": {
+          "enabled": false
+        }
+      },
+      {
+        "proxyType": "datafeedId",
+        "feedName": "ETH/USD",
+        "datafeedId": "0x4385954e058fbe6b6a744f32a4f89d67aad099f8fb8b23e7ea8dd366ae88151d",
+        "proxyAddress": "0x42e7638365215B18E969c7c71cAfd98fc035f3dc",
+        "oev": {
+          "enabled": true,
+          "beneficiary": "0xa5964a9CF2f8ADDF72b3e9Dd417b4E950Cd34e99"
+        }
+      }
+    ]
+  },
+  "links": {
+    "website": "https://sleepswap.vercel.app/",
+    "dapp": "https://sleepswap.vercel.app/",
+    "docs": "https://sleepswap.vercel.app/",
+    "explorer": "https://sleepswap.vercel.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "discord",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "github",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "facebook",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "instagram",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "youtube",
+        "url": "https://sleepswap.vercel.app/"
+      },
+      {
+        "label": "blog",
+        "url": "https://sleepswap.vercel.app/"
+      }
+    ]
+  },
+  "year": 2021
+}
