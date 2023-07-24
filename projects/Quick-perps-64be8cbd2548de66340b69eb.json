@@ -1,0 +1,65 @@
+{
+  "name": "Quick perps",
+  "tagline": "cutting-edge decentralized Perpetual Exchange",
+  "description": "Trade on the fly on quickswap",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690209467772_quick-logo.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690209467773_quick-banner.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690209468130_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690209468154_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "defi",
+    "dex"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "137",
+    "1101"
+  ],
+  "proxies": {
+    "137": [
+      {
+        "proxyType": "dapi",
+        "feedName": "AAPL/USD",
+        "dapiNameHash": "0xbed6168323051797c9cfce44a5b1acca6bffbbaaccd3f5ff80fe8875c56bc6c2",
+        "proxyAddress": "0xa34Aa31eb0d9c4414EaC3B4A4b56A7ca3752529d",
+        "oev": {
+          "enabled": false
+        }
+      }
+    ]
+  },
+  "links": {
+    "website": "https://perps.quickswap.exchange/#/trade",
+    "dapp": "https://perps.quickswap.exchange/#/trade",
+    "docs": "https://perps.quickswap.exchange/#/trade",
+    "explorer": "https://perps.quickswap.exchange/#/trade",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "discord",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "reddit",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "github",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "telegram",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      }
+    ]
+  },
+  "year": 2022
+}
