@@ -1,0 +1,48 @@
+{
+  "name": "POP protocol",
+  "tagline": "cutting-edge decentralized Perpetual Exchange on Polygon zkEVM",
+  "description": "cutting-edge decentralized Perpetual Exchange on Polygon zkEVM",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690452814065_1690195873413_uniswap.jpeg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690452814066_1690195873413_quick-banner.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690452814363_1690195873549_quick-s2.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690452814437_1690195873538_quick-s1.webp"
+    ]
+  },
+  "categories": [
+    "dex",
+    "defi"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "1101",
+    "42161"
+  ],
+  "links": {
+    "website": "https://www.perped.com/",
+    "dapp": "https://www.perped.com/",
+    "docs": "https://www.perped.com/",
+    "explorer": "https://www.perped.com/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "discord",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "reddit",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "github",
+        "url": "https://twitter.com/home"
+      }
+    ]
+  },
+  "year": 2023
+}
