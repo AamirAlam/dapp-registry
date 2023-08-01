@@ -1,0 +1,51 @@
+{
+  "name": "POP protocol",
+  "tagline": "AI based trading platform",
+  "description": "AI based trading platform",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690870096608_quick-logo.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690870096608_quick-banner.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690870096633_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690870096633_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "defi",
+    "dex"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42161"
+  ],
+  "links": {
+    "website": "https://www.perped.com/",
+    "dapp": "https://www.perped.com/",
+    "docs": "https://www.perped.com/",
+    "explorer": "https://www.perped.com/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "discord",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "github",
+        "url": "https://www.perped.com/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://www.perped.com/"
+      }
+    ]
+  },
+  "year": 2023
+}
