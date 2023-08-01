@@ -1,0 +1,51 @@
+{
+  "name": "Sleep Swap",
+  "tagline": "Sleep and trade",
+  "description": "Eat sleep and trade",
+  "status": "inactive",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690871378465_quick-logo.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690871378469_quick-banner.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690871378496_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1690871378510_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "defi"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "137",
+    "1101"
+  ],
+  "links": {
+    "website": "https://perps.quickswap.exchange/#/trade",
+    "dapp": "https://perps.quickswap.exchange/#/trade",
+    "docs": "https://perps.quickswap.exchange/#/trade",
+    "explorer": "https://perps.quickswap.exchange/#/trade",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "discord",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "reddit",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "github",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "telegram",
+        "url": "https://perps.quickswap.exchange/#/trade"
+      }
+    ]
+  },
+  "year": 2023
+}
