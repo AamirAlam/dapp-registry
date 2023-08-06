@@ -4,11 +4,11 @@
   "description": "Mantissa Finance is a new decentralised finance (DeFi) primitive on the Polygon blockchain that aims to redefine the trading experience for pegged assets./nMantissa introduces MantisSwap, a single-sided AMM for trading pegged assets that is designed to maximize capital efficiency and minimize principal losses for liquidity providers. Through its innovative design, MantisSwap will push the boundaries of traditional AMMs with greater capital efficiency, lower trading fees, principal protection for liquidity providers and a super intuitive UI to fuel DeFi growth and adoption./nMantisSwap will allow seamless trades of different stablecoins and pegged assets while offering lower slippage, cheaper gas and safer trades. With the majority of liquidity within a DeFi ecosystem flowing through its native DEX, we believe our ecosystem-centric DEX will become the liquidity hub on Polygon and the premier destination for trading pegged assets./n/nMantisSwap have partnered with API3 to get the latest price feeds for all the tokens in their protocol. These prices will always be consulted before a swap occurs to predict depeg risks.",
   "status": "inactive",
   "images": {
-    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1691346912380_mentis.png",
-    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1691346912381_banner.jpg",
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1691347124465_mentis.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1691347124467_banner.jpg",
     "screenshots": [
-      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1691346912393_screenshot1.png",
-      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1691346912399_screenshot2.png"
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1691347124507_screenshot1.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1691347124550_screenshot2.png"
     ]
   },
   "categories": [
