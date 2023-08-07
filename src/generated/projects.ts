@@ -77,6 +77,42 @@ export const PROJECTS: Project[] = [
     year: 2023,
   },
   {
+    name: 'MantisSwap test 4',
+    tagline: 'Next Generation Stableswap',
+    description:
+      'Mantissa Finance is a new decentralised finance (DeFi) primitive on the Polygon blockchain that aims to redefine the trading experience for pegged assets./nMantissa introduces MantisSwap, a single-sided AMM for trading pegged assets that is designed to maximize capital efficiency and minimize principal losses for liquidity providers. Through its innovative design, MantisSwap will push the boundaries of traditional AMMs with greater capital efficiency, lower trading fees, principal protection for liquidity providers and a super intuitive UI to fuel DeFi growth and adoption./nMantisSwap will allow seamless trades of different stablecoins and pegged assets while offering lower slippage, cheaper gas and safer trades. With the majority of liquidity within a DeFi ecosystem flowing through its native DEX, we believe our ecosystem-centric DEX will become the liquidity hub on Polygon and the premier destination for trading pegged assets./n/nMantisSwap have partnered with API3 to get the latest price feeds for all the tokens in their protocol. These prices will always be consulted before a swap occurs to predict depeg risks.',
+    status: 'inactive',
+    images: {
+      logo: 'https://ecosystem-website.s3.us-east-2.amazonaws.com/1691433896308_mentis.png',
+      cover: 'https://ecosystem-website.s3.us-east-2.amazonaws.com/1691433896310_banner.jpg',
+      screenshots: [
+        'https://ecosystem-website.s3.us-east-2.amazonaws.com/1691433896330_screenshot1.png',
+        'https://ecosystem-website.s3.us-east-2.amazonaws.com/1691433896355_screenshot2.png',
+      ],
+    },
+    categories: ['dex', 'defi'],
+    productType: 'qrng',
+    chains: ['1101'],
+    links: {
+      website: 'https://mantissa.finance/',
+      dapp: 'https://app.mantissa.finance/',
+      docs: 'https://docs.mantissa.finance/',
+      explorer: 'https://zkevm.polygonscan.com/address/0x12d41b6DF938C739F00c392575e3FD9292d98215',
+      socials: [
+        { label: 'twitter', url: 'https://sleepswap.vercel.app/' },
+        { label: 'discord', url: 'https://sleepswap.vercel.app/' },
+        { label: 'reddit', url: 'https://sleepswap.vercel.app/' },
+        { label: 'github', url: 'https://sleepswap.vercel.app/' },
+        { label: 'telegram', url: 'https://sleepswap.vercel.app/' },
+        { label: 'facebook', url: 'https://sleepswap.vercel.app/' },
+        { label: 'instagram', url: 'https://sleepswap.vercel.app/' },
+        { label: 'youtube', url: 'https://sleepswap.vercel.app/' },
+        { label: 'blog', url: 'https://sleepswap.vercel.app/' },
+      ],
+    },
+    year: 2023,
+  },
+  {
     name: 'MantisSwap',
     tagline: 'Next Generation Stableswap',
     description:
