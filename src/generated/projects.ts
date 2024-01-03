@@ -41,6 +41,56 @@ export const PROJECTS: Project[] = [
     year: 2023,
   },
   {
+    name: 'MantisSwap test 21',
+    tagline: 'Next Generation Stableswap',
+    description:
+      'Mantissa Finance is a new decentralized finance (DeFi) primitive on the Polygon blockchain that aims to redefine the trading experience for pegged assets./nMantissa introduces MantisSwap, a single-sided AMM for trading pegged assets that is designed to maximize capital efficiency and minimize principal losses for liquidity providers. Through its innovative design, MantisSwap will push the boundaries of traditional AMMs with greater capital efficiency, lower trading fees, principal protection for liquidity providers, and a super intuitive UI to fuel DeFi growth and adoption./nMantisSwap will allow seamless trades of different stablecoins and pegged assets while offering lower slippage, cheaper gas, and safer trades. With the majority of liquidity within a DeFi ecosystem flowing through its native DEX, we believe our ecosystem-centric DEX will become the liquidity hub on Polygon and the premier destination for trading pegged assets./n/nMantisSwap has partnered with API3 to get the latest price feeds for all the tokens in their protocol. These prices will always be consulted before a swap occurs to predict deeper risks.',
+    status: 'active',
+    images: {
+      logo: 'https://ecosystem-website.s3.us-east-2.amazonaws.com/1704310946174_metamask.png',
+      cover: 'https://ecosystem-website.s3.us-east-2.amazonaws.com/1704310946186_quick-banner.png',
+      screenshots: [
+        'https://ecosystem-website.s3.us-east-2.amazonaws.com/1704310946213_quick-s1.webp',
+        'https://ecosystem-website.s3.us-east-2.amazonaws.com/1704310946219_quick-s2.webp',
+      ],
+    },
+    categories: ['defi', 'dex'],
+    productType: 'datafeed',
+    chains: ['1101'],
+    proxies: {
+      '1101': [
+        {
+          proxyType: 'dapi',
+          feedName: 'DAI/USD',
+          dapiNameHash: '0x9eaf6889d5df94e769098eb3119c7ad9a8f301b58296c06cb75b2859c6f35557',
+          proxyAddress: '0x6538D9c4b12b5E5E209917D29C097465Ba8EFA02',
+          oev: { enabled: false },
+        },
+        {
+          proxyType: 'datafeedId',
+          feedName: 'ETH/USD',
+          datafeedId: '0x4385954e058fbe6b6a744f32a4f89d67aad099f8fb8b23e7ea8dd366ae88151d',
+          proxyAddress: '0x42e7638365215B18E969c7c71cAfd98fc035f3dc',
+          oev: { enabled: true, beneficiary: '0xa5964a9CF2f8ADDF72b3e9Dd417b4E950Cd34e99' },
+        },
+      ],
+    },
+    links: {
+      website: 'https://mantissa.finance/',
+      dapp: 'https://app.mantissa.finance/',
+      docs: 'https://docs.mantissa.finance/',
+      explorer: 'https://zkevm.polygonscan.com/address/0x12d41b6DF938C739F00c392575e3FD9292d98215',
+      socials: [
+        { label: 'twitter', url: 'https://sleepswap.vercel.app/' },
+        { label: 'discord', url: 'https://sleepswap.vercel.app/' },
+        { label: 'reddit', url: 'https://sleepswap.vercel.app/' },
+        { label: 'github', url: 'https://sleepswap.vercel.app/' },
+        { label: 'telegram', url: 'https://sleepswap.vercel.app/' },
+      ],
+    },
+    year: 2023,
+  },
+  {
     name: 'MantisSwap test 3',
     tagline: 'Next Generation Stableswap',
     description:
