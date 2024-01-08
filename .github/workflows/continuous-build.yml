@@ -48,6 +48,9 @@ jobs:
       - name: Run Linting Checks
         run: yarn lint
 
+      - name: Run build
+        run: yarn validate
+        
       - name: Run Validations
         run: yarn validate
 
