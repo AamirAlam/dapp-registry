@@ -50,7 +50,18 @@ jobs:
 
       - name: Run build
         run: yarn build
-        
+
+      - name: Set up Git
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add src/generated/projects.ts
+          git commit -a -m "update projects ts file"
+          git push
+
+      - name: Commit projects.ts
+        run: yarn validate
+
       - name: Run Validations
         run: yarn validate
 
