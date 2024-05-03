@@ -1,0 +1,32 @@
+{
+  "name": "Test Dapp",
+  "tagline": "dd",
+  "description": "sds",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714771597613_Logo.jpg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714771597626_cover.jpg",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714771597626_cover.jpg",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714771597627_zerolend.jpg"
+    ]
+  },
+  "categories": [
+    "dao",
+    "nft",
+    "wallet",
+    "defi"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "1313161554",
+    "8453"
+  ],
+  "proxies": {},
+  "links": {
+    "website": "",
+    "dapp": "https://ecosystem.api3.org/",
+    "socials": []
+  },
+  "year": 2021
+}
