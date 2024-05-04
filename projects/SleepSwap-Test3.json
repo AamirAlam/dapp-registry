@@ -1,0 +1,64 @@
+{
+  "name": "SleepSwap Test3",
+  "tagline": "AI based trading platform",
+  "description": "asasasas",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714843394814_quick-logo.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714843394815_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714843394829_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714843394835_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "defi"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "42170"
+  ],
+  "proxies": {
+    "5000": [
+      {
+        "proxyType": "dapi",
+        "feedName": "ETH/USD",
+        "dapiNameHash": "0x9e6138f8f57d7b493a8364edb0a0ac92399dfd890eecb9121050836a1749ba42",
+        "proxyAddress": "0xc3888221c7abf02a9a504a8c12fc4871e563382d",
+        "oev": {
+          "enabled": true,
+          "beneficiary": "0x11C1EcB2508a68D9d4de764a6e0ac76bF7E89691"
+        }
+      }
+    ]
+  },
+  "links": {
+    "website": "https://api3-ecosystem.netlify.app/",
+    "dapp": "https://api3-ecosystem.netlify.app/",
+    "docs": "https://api3-ecosystem.netlify.app/",
+    "explorer": "https://api3-ecosystem.netlify.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "discord",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "github",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://api3-ecosystem.netlify.app/"
+      }
+    ]
+  },
+  "year": 2021
+}
