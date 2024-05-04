@@ -1,0 +1,50 @@
+{
+  "name": "SleepSwap Test2",
+  "tagline": "AI based trading platform",
+  "description": "asasasas",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714843262552_quick-logo.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714843262553_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714843262598_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714843262613_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "defi"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42170"
+  ],
+  "links": {
+    "website": "https://api3-ecosystem.netlify.app/",
+    "dapp": "https://api3-ecosystem.netlify.app/",
+    "docs": "https://api3-ecosystem.netlify.app/",
+    "explorer": "https://api3-ecosystem.netlify.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "discord",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "github",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://api3-ecosystem.netlify.app/"
+      }
+    ]
+  },
+  "year": 2021
+}
