@@ -1,0 +1,26 @@
+{
+  "name": "Testing add",
+  "tagline": "quater sized tweet",
+  "description": "lore lorem",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716480674958_Logo.jpg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716480674961_zerolend.jpg",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716480674966_cover.jpg",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716480674966_Logo.jpg"
+    ]
+  },
+  "categories": [
+    "dex"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "1313161554"
+  ],
+  "links": {
+    "dapp": "https://github.com/api3dao/dapp-registry/pull/38",
+    "socials": []
+  },
+  "year": 2020
+}
