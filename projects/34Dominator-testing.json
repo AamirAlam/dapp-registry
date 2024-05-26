@@ -1,0 +1,26 @@
+{
+  "name": "34Dominator testing",
+  "tagline": "quater sized tweet",
+  "description": "successData.value.pr_urlsuccessData.value.pr_url",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716688658512_Logo.jpg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716688658518_zerolend.jpg",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716688658530_zerolend.jpg",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716688658537_cover.jpg"
+    ]
+  },
+  "categories": [
+    "dex"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42161"
+  ],
+  "links": {
+    "dapp": "https://burooj.dev",
+    "socials": []
+  },
+  "year": 2021
+}
