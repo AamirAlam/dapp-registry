@@ -1,0 +1,26 @@
+{
+  "name": "Dominatorrg",
+  "tagline": "rgdtg",
+  "description": "drtgrtgtg",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1718036330436_Logo.jpg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1718036330470_cover.jpg",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1718036330470_zerolend.jpg",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1718036330513_cover.jpg"
+    ]
+  },
+  "categories": [
+    "defi"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "3776"
+  ],
+  "links": {
+    "dapp": "https://github.com/api3-ecosystem/ecosystem-website/pulls",
+    "socials": []
+  },
+  "year": 2021
+}
