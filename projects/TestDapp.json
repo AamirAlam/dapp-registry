@@ -1,0 +1,50 @@
+{
+  "name": "TestDapp",
+  "tagline": "AI based trading platform",
+  "description": "dsfgdgdfg",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1717998403000_welcomeToThePac.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1717998403005_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1717998403036_aptin.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1717998403040_bg.webp"
+    ]
+  },
+  "categories": [
+    "gaming"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42161"
+  ],
+  "links": {
+    "website": "https://twitter.com/home",
+    "dapp": "https://sleepswap.vercel.app/",
+    "docs": "https://sleepswap.vercel.app/",
+    "explorer": "https://sleepswap.vercel.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "discord",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "reddit",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "github",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "telegram",
+        "url": "https://twitter.com/home"
+      }
+    ]
+  },
+  "year": 2023
+}
