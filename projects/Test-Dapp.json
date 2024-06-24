@@ -1,0 +1,50 @@
+{
+  "name": "Test Dapp",
+  "tagline": "cutting-edge decentralized Perpetual Exchange on Polygon zkEVM",
+  "description": "asas",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1719225065152_welcomeToThePac.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1719225065163_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1719225065224_aptin.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1719225065234_bg.jpeg"
+    ]
+  },
+  "categories": [
+    "gaming"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42161"
+  ],
+  "links": {
+    "website": "https://twitter.com/home",
+    "dapp": "https://api3-ecosystem.netlify.app/",
+    "docs": "https://api3-ecosystem.netlify.app/",
+    "explorer": "https://api3-ecosystem.netlify.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "discord",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "reddit",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "github",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "telegram",
+        "url": "https://twitter.com/home"
+      }
+    ]
+  },
+  "year": 2024
+}
