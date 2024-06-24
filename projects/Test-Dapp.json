@@ -1,0 +1,63 @@
+{
+  "name": "Test Dapp",
+  "tagline": "Next Generation Stableswap",
+  "description": "ed",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1719225230764_telegram.jpeg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1719225230764_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1719225230779_aptin.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1719225230783_bg.jpeg"
+    ]
+  },
+  "categories": [
+    "gaming"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "42161"
+  ],
+  "proxies": {
+    "42161": [
+      {
+        "proxyType": "dapi",
+        "dapiNameHash": "0x9e6138f8f57d7b493a8364edb0a0ac92399dfd890eecb9121050836a1749ba42",
+        "proxyAddress": "0xf624881ac131210716F7708C28403cCBe346cB73",
+        "oev": {
+          "enabled": true,
+          "beneficiary": "0x6adD2B0D2bA7A4075d75c3E1801214c53e407418"
+        }
+      }
+    ]
+  },
+  "links": {
+    "website": "https://api3.org/",
+    "dapp": "https://api3.org/",
+    "docs": "https://api3.org/",
+    "explorer": "https://api3.org/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://api3.org/"
+      },
+      {
+        "label": "discord",
+        "url": "https://api3.org/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://api3.org/"
+      },
+      {
+        "label": "github",
+        "url": "https://api3.org/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://api3.org/"
+      }
+    ]
+  },
+  "year": 2020
+}
