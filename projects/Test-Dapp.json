@@ -1,0 +1,64 @@
+{
+  "name": "Test Dapp",
+  "tagline": "AI based trading platform",
+  "description": "asas",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720187285549_creeping.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720187285550_1704264326486_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720187285596_1704264326496_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720187285610_1704272719530_quick-banner.png"
+    ]
+  },
+  "categories": [
+    "dao"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "42161"
+  ],
+  "proxies": {
+    "42161": [
+      {
+        "proxyType": "dapi",
+        "feedName": "ETH/USD",
+        "dapiNameHash": "0x9e6138f8f57d7b493a8364edb0a0ac92399dfd890eecb9121050836a1749ba42",
+        "proxyAddress": "0xf624881ac131210716F7708C28403cCBe346cB73",
+        "oev": {
+          "enabled": true,
+          "beneficiary": "0x6adD2B0D2bA7A4075d75c3E1801214c53e407418"
+        }
+      }
+    ]
+  },
+  "links": {
+    "website": "https://api3-ecosystem.netlify.app/",
+    "dapp": "https://api3-ecosystem.netlify.app/",
+    "docs": "https://api3-ecosystem.netlify.app/",
+    "explorer": "https://api3-ecosystem.netlify.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "discord",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "github",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://api3-ecosystem.netlify.app/"
+      }
+    ]
+  },
+  "year": 2021
+}
