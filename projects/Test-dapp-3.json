@@ -1,0 +1,64 @@
+{
+  "name": "Test dapp 3",
+  "tagline": "Next Generation Stableswap",
+  "description": "asas",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720854059694_7202%20%281%29.jpg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720854059702_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720854059707_7202%20%281%29.jpg",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720854059714_7202.jpg"
+    ]
+  },
+  "categories": [
+    "dao"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "42161"
+  ],
+  "proxies": {
+    "42161": [
+      {
+        "proxyType": "dapi",
+        "feedName": "ETH/USD",
+        "dapiNameHash": "0x9e6138f8f57d7b493a8364edb0a0ac92399dfd890eecb9121050836a1749ba42",
+        "proxyAddress": "0xf624881ac131210716F7708C28403cCBe346cB73",
+        "oev": {
+          "enabled": true,
+          "beneficiary": "0x6adD2B0D2bA7A4075d75c3E1801214c53e407418"
+        }
+      }
+    ]
+  },
+  "links": {
+    "website": "https://twitter.com/home",
+    "dapp": "https://api3-ecosystem.netlify.app/",
+    "docs": "https://api3-ecosystem.netlify.app/",
+    "explorer": "https://api3-ecosystem.netlify.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "discord",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "reddit",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "github",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "telegram",
+        "url": "https://twitter.com/home"
+      }
+    ]
+  },
+  "year": 2020
+}
