@@ -1,0 +1,64 @@
+{
+  "name": "Test Dapp",
+  "tagline": "Next Generation Stableswap",
+  "description": "as",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720952088362_telegram.jpeg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720952088363_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720952088382_aptin.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1720952088384_bg.jpeg"
+    ]
+  },
+  "categories": [
+    "dex"
+  ],
+  "productType": "datafeed",
+  "chains": [
+    "42161"
+  ],
+  "proxies": {
+    "42161": [
+      {
+        "proxyType": "dapi",
+        "feedName": "ETH/USD",
+        "dapiNameHash": "0x9e6138f8f57d7b493a8364edb0a0ac92399dfd890eecb9121050836a1749ba42",
+        "proxyAddress": "0xf624881ac131210716F7708C28403cCBe346cB73",
+        "oev": {
+          "enabled": true,
+          "beneficiary": "0x6adD2B0D2bA7A4075d75c3E1801214c53e407418"
+        }
+      }
+    ]
+  },
+  "links": {
+    "website": "https://perps.quickswap.exchange/#/tradehttps://perps.quickswap.exchange/#/trade",
+    "dapp": "https://perps.quickswap.exchange/#/trade",
+    "docs": "https://perps.quickswap.exchange/#/trade",
+    "explorer": "https://perps.quickswap.exchange/#/trade",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://perps.quickswap.exchange/#/tradehttps://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "discord",
+        "url": "https://perps.quickswap.exchange/#/tradehttps://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "reddit",
+        "url": "https://perps.quickswap.exchange/#/tradehttps://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "github",
+        "url": "https://perps.quickswap.exchange/#/tradehttps://perps.quickswap.exchange/#/trade"
+      },
+      {
+        "label": "telegram",
+        "url": "https://perps.quickswap.exchange/#/tradehttps://perps.quickswap.exchange/#/trade"
+      }
+    ]
+  },
+  "year": 2018
+}
