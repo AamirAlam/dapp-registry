@@ -1,0 +1,50 @@
+{
+  "name": "asas",
+  "tagline": "as",
+  "description": "as",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1721034349568_telegram.jpeg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1721034349569_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1721034349620_quick-banner%20%282%29.png",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1721034349625_telegram.jpeg"
+    ]
+  },
+  "categories": [
+    "dex"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42161"
+  ],
+  "links": {
+    "website": "https://api3-ecosystem.netlify.app/",
+    "dapp": "https://api3-ecosystem.netlify.app/",
+    "docs": "https://api3-ecosystem.netlify.app/",
+    "explorer": "https://api3-ecosystem.netlify.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "discord",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "reddit",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "github",
+        "url": "https://api3-ecosystem.netlify.app/"
+      },
+      {
+        "label": "telegram",
+        "url": "https://api3-ecosystem.netlify.app/"
+      }
+    ]
+  },
+  "year": 2019
+}
