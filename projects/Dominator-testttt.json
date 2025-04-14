@@ -1,0 +1,26 @@
+{
+  "name": "Dominator testttt",
+  "tagline": "quater sized tweet",
+  "description": "quater sized tweet",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716687924255_Logo.jpg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716687924259_zerolend.jpg",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716687924272_Logo.jpg",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716687924277_cover.jpg"
+    ]
+  },
+  "categories": [
+    "nft"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42170"
+  ],
+  "links": {
+    "dapp": "https://ecosystem.api3.org/",
+    "socials": []
+  },
+  "year": 2024
+}
