@@ -1,0 +1,26 @@
+{
+  "name": "Dominator",
+  "tagline": "quater sized tweet",
+  "description": "submitResult?.messages",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716687804161_Logo.jpg",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716687804172_zerolend.jpg",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716687804189_cover.jpg",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1716687804189_Logo.jpg"
+    ]
+  },
+  "categories": [
+    "dex"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42161"
+  ],
+  "links": {
+    "dapp": "https://github.com/api3dao/dapp-registry/pull/38",
+    "socials": []
+  },
+  "year": 2023
+}
