@@ -1,0 +1,50 @@
+{
+  "name": "SleepSwap Test",
+  "tagline": "AI based trading platform",
+  "description": "dsfgdgdfg",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714816108042_quick-logo.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714816108043_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714816108088_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1714816108090_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "gaming"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42161"
+  ],
+  "links": {
+    "website": "https://twitter.com/home",
+    "dapp": "https://sleepswap.vercel.app/",
+    "docs": "https://sleepswap.vercel.app/",
+    "explorer": "https://sleepswap.vercel.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "discord",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "reddit",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "github",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "telegram",
+        "url": "https://twitter.com/home"
+      }
+    ]
+  },
+  "year": 2023
+}
