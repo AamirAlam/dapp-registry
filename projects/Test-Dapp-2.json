@@ -1,0 +1,50 @@
+{
+  "name": "Test Dapp 2",
+  "tagline": "Next Generation Stableswap",
+  "description": "Next Generation Stableswap",
+  "status": "active",
+  "images": {
+    "logo": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1709663917367_quick-logo.png",
+    "cover": "https://ecosystem-website.s3.us-east-2.amazonaws.com/1709663917367_quick-banner%20%282%29.png",
+    "screenshots": [
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1709663917378_quick-s1.webp",
+      "https://ecosystem-website.s3.us-east-2.amazonaws.com/1709663917382_quick-s2.webp"
+    ]
+  },
+  "categories": [
+    "defi"
+  ],
+  "productType": "qrng",
+  "chains": [
+    "42170"
+  ],
+  "links": {
+    "website": "https://twitter.com/home",
+    "dapp": "https://api3-ecosystem.netlify.app/",
+    "docs": "https://api3-ecosystem.netlify.app/",
+    "explorer": "https://api3-ecosystem.netlify.app/",
+    "socials": [
+      {
+        "label": "twitter",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "discord",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "reddit",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "github",
+        "url": "https://twitter.com/home"
+      },
+      {
+        "label": "telegram",
+        "url": "https://twitter.com/home"
+      }
+    ]
+  },
+  "year": 2024
+}
